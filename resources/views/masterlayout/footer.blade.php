@@ -112,7 +112,7 @@
             <li>
               <a href="#!" class="footerlinktext">Furniture</a>
             </li>
-            <li>footerlinktext
+            <li>
               <a href="#!" class="footerlinktext">Electronics </a>
             </li>
           </ul>

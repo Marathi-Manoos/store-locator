@@ -1,13 +1,7 @@
-.navbar{
-    position: fixed;
-}
 .navbar-brand{
     color: red;
     font-weight: 500;
     font-size: 1.2rem;
-}
-.raghav{
-    color:red;
 }
 .navbar-collapse{
     /* background-color: red; */
