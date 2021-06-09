@@ -1,0 +1,63 @@
+.navbar-brand{
+    color: red;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.raghav{
+    color:red;
+}
+.navbar-collapse{
+    /* background-color: red; */
+    
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+.navbar-nav{
+    /* background-color: green; */
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.nav-item{
+    color: #000100;
+    margin-left: 5%;
+}
+
+.nav-link>h6{
+    width: auto;
+    padding: 7px;
+    height: 40px;
+    color: #000100;
+}
+
+.nav-link>h6:hover{
+    border-radius: 6px;
+    color: white;
+    background-color: green;
+}
+
+.login{
+    /* background-color:green; */
+    margin-left: 10% ;
+}
+
+.dropdown>h6{
+    width: auto;
+    padding: 7px;
+    height: 40px;
+    color: #000100;
+}
+.dropdown>h6:hover{
+    border-radius: 6px;
+    color: white;
+    background-color: green;
+}
+
+.dropdown-toggle
+{
+    /* height: 10%; */
+    background-color: red;
+}
