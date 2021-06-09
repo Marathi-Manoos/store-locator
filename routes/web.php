@@ -22,3 +22,12 @@ Route::get('/navbar',function(){
     return view('masterlayout/navbar');
 
 });
+
+Route::get('/footer',function(){
+    return view('masterlayout/footer');
+});
+
+Route::get('/index',function(){
+    return view('index');
+});
+

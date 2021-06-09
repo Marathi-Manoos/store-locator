@@ -1,0 +1,12 @@
+/* .list-unstyled:hover{
+background-color: white;
+ color: green;
+} */
+.footerlinktext:hover{
+
+color: green;
+}
+.footerlinktext
+{
+    color: white;
+}
