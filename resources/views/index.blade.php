@@ -8,6 +8,6 @@
 </head>
 <body>
 @extends('masterlayout.navbar')
-
+@extends('masterlayout.footer')
 </body>
 </html>
