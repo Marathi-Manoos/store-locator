@@ -47,10 +47,12 @@
         <button class="btn btn-outline-success" type="submit">Search</button>
       </form>
       <div class="login">
+
       <a class="nav-link " href="#"><button class="btn btn-md btn-danger">Login</button></a>
       </div>
     </div>
   </div>
+
 </nav>
 </body>
 <script src="{{asset('bootstrap/js/bootstrap.js')}}"></script>
