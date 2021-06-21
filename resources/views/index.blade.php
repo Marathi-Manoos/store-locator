@@ -48,8 +48,7 @@
 <option value="1">€ EURO</option>
 <option value="2">$ CAD</option>
 <option value="3">₹ INR</option>
-<option value="4">¥ CNY</option>
-<option value="5">৳ BDT</option>
+
 </select>
 </div>
 </li>
