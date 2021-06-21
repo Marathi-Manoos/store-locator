@@ -925,7 +925,7 @@ incididunt ut labore.</p>
 <div class="col-lg-4 col-md-12 col-12">
 <div class="offer-content">
 <div class="image">
-<img src="assets/images/offer/offer-image.jpg" alt="#">
+<img src="{{asset('images/offer/offer-image.jpg')}}" alt="#">
 <span class="sale-tag">-50%</span>
 </div>
 <div class="text">
@@ -981,7 +981,7 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="assets/images/home-product-list/01.jpg" alt="#"></a>
+<a href="product-grids.html"><img src="{{asset('images/home-product-list/01.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
@@ -994,7 +994,7 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="assets/images/home-product-list/02.jpg" alt="#"></a>
+<a href="product-grids.html"><img src="{{asset('images/home-product-list/02.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
@@ -1007,7 +1007,7 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="assets/images/home-product-list/03.jpg" alt="#"></a>
+<a href="product-grids.html"><img src="{{asset('images/home-product-list/03.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
@@ -1023,7 +1023,7 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="assets/images/home-product-list/04.jpg" alt="#"></a>
+<a href="product-grids.html"><img src="{{asset('images/home-product-list/04.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
@@ -1036,7 +1036,7 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="assets/images/home-product-list/05.jpg" alt="#"></a>
+<a href="product-grids.html"><img src="{{asset('images/home-product-list/05.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
@@ -1049,7 +1049,7 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="assets/images/home-product-list/06.jpg" alt="#"></a>
+<a href="product-grids.html"><img src="{{asset('images/home-product-list/06.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
@@ -1065,7 +1065,7 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="assets/images/home-product-list/07.jpg" alt="#"></a>
+<a href="product-grids.html"><img src="{{asset('images/home-product-list/07.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
@@ -1078,7 +1078,7 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="assets/images/home-product-list/08.jpg" alt="#"></a>
+<a href="product-grids.html"><img src="{{asset('images/home-product-list/08.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
@@ -1091,7 +1091,7 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="assets/images/home-product-list/09.jpg" alt="#"></a>
+<a href="product-grids.html"><img src="{{asset('images/home-product-list/09.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
@@ -1117,28 +1117,28 @@ eiusmod tempor labores.</p>
 <div class="brands-logo-wrapper">
 <div class="brands-logo-carousel d-flex align-items-center justify-content-between">
 <div class="brand-logo">
-<img src="assets/images/brands/01.png" alt="#">
+<img src="{{asset('images/brands/01.png')}}" alt="#">
 </div>
 <div class="brand-logo">
-<img src="assets/images/brands/02.png" alt="#">
+<img src="{{asset('images/brands/02.png')}}" alt="#">
 </div>
 <div class="brand-logo">
-<img src="assets/images/brands/03.png" alt="#">
+<img src="{{asset('images/brands/03.png')}}" alt="#">
 </div>
 <div class="brand-logo">
-<img src="assets/images/brands/04.png" alt="#">
+<img src="{{asset('images/brands/04.png')}}" alt="#">
 </div>
 <div class="brand-logo">
-<img src="assets/images/brands/05.png" alt="#">
+<img src="{{asset('images/brands/05.png')}}" alt="#">
 </div>
 <div class="brand-logo">
-<img src="assets/images/brands/06.png" alt="#">
+<img src="{{asset('images/brands/06.png')}}" alt="#">
 </div>
 <div class="brand-logo">
-<img src="assets/images/brands/03.png" alt="#">
+<img src="{{asset('images/brands/03.png')}}" alt="#">
 </div>
 <div class="brand-logo">
- <img src="assets/images/brands/04.png" alt="#">
+ <img src="{{asset('images/brands/04.png')}}" alt="#">
 </div>
 </div>
 </div>
@@ -1163,7 +1163,7 @@ Ipsum available, but the majority have suffered alteration in some form.</p>
 <div class="single-blog">
 <div class="blog-img">
 <a href="blog-single-sidebar.html">
-<img src="assets/images/blog/blog-1.jpg" alt="#">
+<img src="{{asset('images/blog/blog-1.jpg')}}" alt="#">
 </a>
 </div>
 <div class="blog-content">
@@ -1185,7 +1185,7 @@ incididunt.</p>
 <div class="single-blog">
 <div class="blog-img">
 <a href="blog-single-sidebar.html">
-<img src="assets/images/blog/blog-2.jpg" alt="#">
+<img src="{{asset('images/blog/blog-2.jpg')}}" alt="#">
 </a>
 </div>
 <div class="blog-content">
@@ -1207,7 +1207,7 @@ incididunt.</p>
 <div class="single-blog">
 <div class="blog-img">
 <a href="blog-single-sidebar.html">
-<img src="assets/images/blog/blog-3.jpg" alt="#">
+<img src="{{asset('images/blog/blog-3.jpg')}}" alt="#">
 </a>
 </div>
 <div class="blog-content">
@@ -1287,7 +1287,7 @@ incididunt.</p>
 <div class="col-lg-3 col-md-4 col-12">
 <div class="footer-logo">
 <a href="index.html">
-<img src="assets/images/logo/white-logo.svg" alt="#">
+<img src="{{asset('images/logo/white-logo.svg')}}" alt="#">
 </a>
 </div>
 </div>
@@ -1396,12 +1396,12 @@ Subscribe to our Newsletter
 <div class="col-lg-4 col-12">
 <div class="payment-gateway">
 <span>We Accept:</span>
-<img src="assets/images/footer/credit-cards-footer.png" alt="#">
+<img src="{{asset('images/footer/credit-cards-footer.png')}}" alt="#">
 </div>
 </div>
 <div class="col-lg-4 col-12">
 <div class="copyright">
-<p>Designed and Developed by<a href="https://graygrids.com/" rel="nofollow" target="_blank">GrayGrids</a></p>
+<p>Designed and Developed by<a href="#" rel="nofollow" target="_blank">AAA</a></p>
 </div>
 </div>
 <div class="col-lg-4 col-12">
